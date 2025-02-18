@@ -1,0 +1,27 @@
+.custom-form {
+    background: linear-gradient(145deg, #b7b5b3, #ffffff);
+    padding: 1rem;
+    border-radius: 15px;
+    margin: 50px;
+    margin-left: 150px;
+
+
+}
+
+h1 {
+    text-align: center;
+}
+
+
+.custom-icon {
+    background-color: #83bce8;
+    border: rgb(255, 248, 248);
+}
+
+.btn.btn-dark.custom-button {
+    background: linear-gradient(145deg, #000000);
+    padding: 0.8rem 2rem;
+    border-radius: 15px;
+    border: none;
+}
+
